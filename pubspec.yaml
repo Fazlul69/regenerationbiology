@@ -35,6 +35,7 @@ dependencies:
 
 flutter_icons:
   image_path: "aseets/images/icon.jpg"
+  # adaptive_icon_background: "#ffffff"
   android:  true
 
 dev_dependencies:
